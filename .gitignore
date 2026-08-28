@@ -1,0 +1,33 @@
+data/
+results/
+*.npy
+*.json
+!requirements.txt
+!src/**/*.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environments
+.env
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary cleanup script
+_cleanup.py
