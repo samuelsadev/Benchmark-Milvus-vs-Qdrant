@@ -6,7 +6,7 @@ Benchmark comparativo de bancos de dados vetoriais para busca híbrida (dense + 
 **Embeddings:** BGE-M3 (1024d dense + sparse)  
 **Reranking:** ColBERT v2 com MaxSim em GPU  
 
-📄 [Artigo no Medium](URL_DO_ARTIGO)
+📄 [Artigo no Medium](https://medium.com/@samuelsa.dev/milvus-vs-qdrant-comparei-na-pr%C3%A1tica-dois-bancos-vetoriais-para-busca-h%C3%ADbrida-em-produ%C3%A7%C3%A3o-1edd0691f848?sharedUserId=samuelsa.dev)
 
 ---
 
